@@ -9,7 +9,7 @@ A Multi Usertype/role authentication api
 ## Components
 - Signups, Email Verificaion , Password reset..
 - Login, Token Authentication
-- Roles an permissions
+- Roles and permissions
 - Apartment Listing..,
 
 
