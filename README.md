@@ -3,14 +3,14 @@
 A Multi Usertype/role authentication api  
 
 ## USE CASE:
-- An Real Estate Agent🏡👔
-- A potential tenant🤵
+- An Teacher🏡👔
+- A Student🤵
 
 ## Components
 - Signups, Email Verificaion , Password reset..
 - Login, Token Authentication
 - Roles and permissions
-- Apartment Listing..,
+
 
 
 
