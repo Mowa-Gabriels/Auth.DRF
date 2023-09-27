@@ -10,6 +10,8 @@ A Multi Usertype/role authentication api
 - Signups, Email Verificaion , Password reset..
 - Login, Token Authentication
 - Roles and permissions
+- Cors Header
+- Tests
 
 
 
